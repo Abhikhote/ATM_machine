@@ -20,7 +20,7 @@ public class Options extends Account {
 		{
 			try 
 			{
-				data.put(123456, 123);
+				data.put(123456, 555);
 				
 				System.out.println("Welcome to ATM project");
 				System.out.println("Enter Coustomer Number");
